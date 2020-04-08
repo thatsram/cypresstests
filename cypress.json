@@ -1,0 +1,13 @@
+
+{
+  "env": {
+    "d8_user": "webdev",
+    "d8_pass": "W3bD3v3l0p3r",
+
+    "site" : {
+      "url" : "http://dev-fcl-site-fcuk.pantheonsite.io"
+    }
+
+  }
+}
+
